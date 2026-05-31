@@ -1,0 +1,579 @@
+[
+  {
+    "_id": "6a06e8b44ca32393cdd9728d",
+    "name": "Apple AirPods Pro 2nd Gen",
+    "price": 24900,
+    "mrp": 28634,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9728e",
+    "name": "Bose QuietComfort 45",
+    "price": 24990,
+    "mrp": 28738,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97290",
+    "name": "Sony Alpha ZV-E10 II",
+    "price": 79990,
+    "mrp": 91988,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97297",
+    "name": "Amazon Echo Dot 5th Gen",
+    "price": 5999,
+    "mrp": 6898,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9728a",
+    "name": "LG OLED C4 55-inch",
+    "price": 149990,
+    "mrp": 172488,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9729d",
+    "name": "LG UltraGear 27GR95QE OLED",
+    "price": 84990,
+    "mrp": 97738,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972a0",
+    "name": "Logitech MX Master 3S",
+    "price": 10495,
+    "mrp": 12069,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972a4",
+    "name": "iRobot Roomba j9+",
+    "price": 89990,
+    "mrp": 103488,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9729e",
+    "name": "Samsung Odyssey G7 32-inch",
+    "price": 64990,
+    "mrp": 74738,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972a8",
+    "name": "WD My Passport Ultra 4TB",
+    "price": 9999,
+    "mrp": 11498,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97292",
+    "name": "GoPro HERO13 Black",
+    "price": 44990,
+    "mrp": 51738,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97298",
+    "name": "Google Nest Hub Max",
+    "price": 19999,
+    "mrp": 22998,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9729b",
+    "name": "Samsung Galaxy Watch7",
+    "price": 29999,
+    "mrp": 34498,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972a5",
+    "name": "ASUS ROG Rapture GT-BE98",
+    "price": 59999,
+    "mrp": 68998,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97286",
+    "name": "Apple iPad Pro M4 11-inch",
+    "price": 99900,
+    "mrp": 114884,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972a2",
+    "name": "Instant Pot Pro Plus",
+    "price": 14999,
+    "mrp": 17248,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972a7",
+    "name": "Samsung 990 Pro 2TB SSD",
+    "price": 17499,
+    "mrp": 20123,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97287",
+    "name": "Samsung Galaxy Tab S10+",
+    "price": 92999,
+    "mrp": 106948,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9728b",
+    "name": "Sony Bravia 7 65-inch",
+    "price": 184990,
+    "mrp": 212738,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9729c",
+    "name": "Garmin Fenix 8",
+    "price": 109990,
+    "mrp": 126488,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972a3",
+    "name": "Philips Series 7000 Air Fryer",
+    "price": 13999,
+    "mrp": 16098,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97291",
+    "name": "Canon EOS R50",
+    "price": 74990,
+    "mrp": 86238,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9729a",
+    "name": "Apple Watch Series 10",
+    "price": 46900,
+    "mrp": 53934,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9728c",
+    "name": "Sony WH-1000XM5",
+    "price": 29990,
+    "mrp": 34488,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97288",
+    "name": "OnePlus Pad 2",
+    "price": 44999,
+    "mrp": 51748,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97299",
+    "name": "Philips Hue Starter Kit",
+    "price": 8999,
+    "mrp": 10348,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972a1",
+    "name": "Dyson V15 Detect",
+    "price": 65900,
+    "mrp": 75785,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9729f",
+    "name": "Keychron Q1 Pro",
+    "price": 14999,
+    "mrp": 17248,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972a6",
+    "name": "TP-Link Deco XE75 Pro Mesh",
+    "price": 19999,
+    "mrp": 22998,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9728f",
+    "name": "JBL Flip 6",
+    "price": 9999,
+    "mrp": 11498,
+    "systemMemory": [],
+    "variants": []
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972ab",
+    "name": "Apple AirTag 4-pack",
+    "price": 9999,
+    "mrp": 10900,
+    "variants": [
+      {
+        "variant": "4-Pack",
+        "available": true,
+        "priceModifier": 8000
+      },
+      {
+        "variant": "1-Pack",
+        "available": true,
+        "priceModifier": 0
+      }
+    ],
+    "systemMemory": null
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97293",
+    "name": "Sony PlayStation 5 Slim",
+    "price": 54990,
+    "mrp": 63238,
+    "systemMemory": [
+      {
+        "ram": "16 GB",
+        "available": true,
+        "priceModifier": 5000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "Disc Edition",
+        "available": true,
+        "priceModifier": 10000
+      },
+      {
+        "variant": "Digital Edition",
+        "available": true,
+        "priceModifier": 0
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd97294",
+    "name": "Xbox Series X",
+    "price": 54999,
+    "mrp": 63248,
+    "systemMemory": [
+      {
+        "ram": "16 GB",
+        "available": true,
+        "priceModifier": 5000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "1 TB SSD",
+        "available": true,
+        "priceModifier": 15000
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972e1",
+    "name": "Apple iPhone 16 Pro Max",
+    "price": 144900,
+    "mrp": 144900,
+    "systemMemory": [
+      {
+        "ram": "8 GB",
+        "available": true,
+        "priceModifier": 0
+      }
+    ],
+    "variants": [
+      {
+        "variant": "256 GB",
+        "available": true,
+        "priceModifier": 0
+      },
+      {
+        "variant": "512 GB",
+        "available": true,
+        "priceModifier": 5000
+      },
+      {
+        "variant": "1 TB",
+        "available": false,
+        "priceModifier": 15000
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972e2",
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 129999,
+    "mrp": 134999,
+    "systemMemory": [
+      {
+        "ram": "12 GB",
+        "available": true,
+        "priceModifier": 3000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "256 GB",
+        "available": true,
+        "priceModifier": 0
+      },
+      {
+        "variant": "512 GB",
+        "available": true,
+        "priceModifier": 5000
+      },
+      {
+        "variant": "1 TB",
+        "available": true,
+        "priceModifier": 15000
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972e3",
+    "name": "Google Pixel 9 Pro XL",
+    "price": 124999,
+    "mrp": 124999,
+    "systemMemory": [
+      {
+        "ram": "16 GB",
+        "available": true,
+        "priceModifier": 5000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "256 GB",
+        "available": true,
+        "priceModifier": 0
+      },
+      {
+        "variant": "512 GB",
+        "available": false,
+        "priceModifier": 5000
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9727a",
+    "name": "Apple MacBook Air M3 13-inch",
+    "price": 127990,
+    "mrp": 134900,
+    "systemMemory": [
+      {
+        "ram": "8 GB",
+        "available": true,
+        "priceModifier": 0
+      },
+      {
+        "ram": "16 GB",
+        "available": true,
+        "stockLeft": 4,
+        "priceModifier": 5000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "256 GB, 13 Inch",
+        "available": true,
+        "priceModifier": 0
+      },
+      {
+        "variant": "512 GB, 13 Inch",
+        "available": false,
+        "priceModifier": 5000
+      },
+      {
+        "variant": "256 GB, 15 Inch",
+        "available": false,
+        "priceModifier": 10000
+      },
+      {
+        "variant": "512 GB, 15 Inch",
+        "available": false,
+        "priceModifier": 5000
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9727b",
+    "name": "Dell XPS 13 9340",
+    "price": 144990,
+    "mrp": 159900,
+    "systemMemory": [
+      {
+        "ram": "16 GB",
+        "available": true,
+        "priceModifier": 5000
+      },
+      {
+        "ram": "32 GB",
+        "available": true,
+        "stockLeft": 2,
+        "priceModifier": 10000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "512 GB, 13.4 Inch",
+        "available": true,
+        "priceModifier": 5000
+      },
+      {
+        "variant": "1 TB, 13.4 Inch",
+        "available": true,
+        "priceModifier": 15000
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9727c",
+    "name": "HP Spectre x360 14-eu0000tu",
+    "price": 164999,
+    "mrp": 179999,
+    "systemMemory": [
+      {
+        "ram": "16 GB",
+        "available": true,
+        "priceModifier": 5000
+      },
+      {
+        "ram": "32 GB",
+        "available": false,
+        "priceModifier": 10000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "1 TB, 14 Inch OLED",
+        "available": true,
+        "priceModifier": 15000
+      },
+      {
+        "variant": "2 TB, 14 Inch OLED",
+        "available": false,
+        "priceModifier": 30000
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd9727d",
+    "name": "Lenovo Yoga Slim 7x 14Q8X9",
+    "price": 112990,
+    "mrp": 133890,
+    "systemMemory": [
+      {
+        "ram": "16 GB",
+        "available": true,
+        "priceModifier": 5000
+      },
+      {
+        "ram": "32 GB",
+        "available": false,
+        "priceModifier": 10000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "512 GB, 14.5 Inch",
+        "available": true,
+        "priceModifier": 5000
+      },
+      {
+        "variant": "1 TB, 14.5 Inch",
+        "available": true,
+        "stockLeft": 1,
+        "priceModifier": 15000
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972e7",
+    "name": "ASUS ROG Zephyrus G14 GA403",
+    "price": 174990,
+    "mrp": 199900,
+    "systemMemory": [
+      {
+        "ram": "16 GB",
+        "available": true,
+        "priceModifier": 5000
+      },
+      {
+        "ram": "32 GB",
+        "available": false,
+        "priceModifier": 10000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "1 TB, 14 Inch OLED",
+        "available": true,
+        "priceModifier": 15000
+      }
+    ]
+  },
+  {
+    "_id": "6a06e8b44ca32393cdd972e4",
+    "name": "OnePlus 12",
+    "price": 64999,
+    "mrp": 69999,
+    "systemMemory": [
+      {
+        "ram": "16 GB",
+        "available": true,
+        "priceModifier": 5000
+      },
+      {
+        "ram": "12 GB",
+        "available": true,
+        "priceModifier": 3000
+      }
+    ],
+    "variants": [
+      {
+        "variant": "256 GB",
+        "available": true,
+        "priceModifier": 0
+      },
+      {
+        "variant": "512 GB",
+        "available": true,
+        "priceModifier": 5000
+      }
+    ]
+  }
+]
